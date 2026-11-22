@@ -1,0 +1,24 @@
+# build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.dll
+*.map
+*.res
+*.d
+*.pch
+*.pdb
+
+# build / output dirs
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*_output/
+
+# editor / OS
+.vs/
+*.user
+.DS_Store
+Thumbs.db
